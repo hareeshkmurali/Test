@@ -1,4 +1,2 @@
 FileC
 CHnage
-
-This is for Squash
