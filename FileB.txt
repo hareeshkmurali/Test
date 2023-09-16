@@ -1,2 +1,4 @@
 THis Is File B
 Change
+
+CHnage for squash
