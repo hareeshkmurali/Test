@@ -1,2 +1,6 @@
 FileC
-change
+<<<<<<< HEAD
+
+=======
+CHnage
+>>>>>>> branchA
